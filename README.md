@@ -38,7 +38,3 @@ Start the server
   npm start
 ```
 
-## Feedback
-
-If you have any feedback, please reach out to me at syedamahamfahim@gmail.com
-
