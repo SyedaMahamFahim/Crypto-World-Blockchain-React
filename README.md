@@ -2,23 +2,10 @@
 # Crypto World - React
 
 
-
-
-
-
-
-# Authors
-
-- [@SyedaMahamFahim](https://github.com/SyedaMahamFahim/)
-
 ## Tech Stack
 - React
 - Redux
 - React Router
-
-
-
-
 
 # Demo
 
